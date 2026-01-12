@@ -1,28 +1,26 @@
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRpOXJnd3lsOGVoOHh4emFjNXY1ZHN3bHV5azJoYzZmb3lndXNwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gede-dira-agastya-68288527b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/diraemonnn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="35" alt="instagram logo"  />
   </a>
   <a href="1440015033202376746" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="85" height="35" alt="discord logo"  />
   </a>
   <a href="gedediraagastya@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Diraemonnn.Diraemonnn&left_color=crimson&right_color=darkgray"  />
 </div>
 
 ###
@@ -33,21 +31,25 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<br clear="both">
 
-###
-
-<p align="left">🔭 I’m currently working on: Optimizing Network configurations (Cisco/MikroTik).<br><br>👯 I’m looking to collaborate on: Beginner to Intermediate Mobile Development projects.<br><br>🤝 I’m looking for help with: Exploring Machine Learning roadmaps & implementation.<br><br>🌱 I’m currently learning: Mobile App Architecture and Advanced Network Engineering.<br><br>💬 Ask me about: Network Troubleshooting, Google Student Ambassador program, or Java.<br><br>⚡ Fun fact: I love hiking mountains 🏔️ and playing guitar 🎸 in my spare time.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<p align="left">🔭 I’m currently working on: Optimizing Network configurations (Cisco/MikroTik).<br><br>👯 I’m looking to collaborate on: Beginner to Intermediate Mobile Development projects.<br><br>🤝 I’m looking for help with: Exploring Machine Learning roadmaps & implementation.<br><br>🌱 I’m currently learning: Mobile App Architecture and Advanced Network Engineering.<br><br>💬 Ask me about: Network Troubleshooting, Google Student Ambassador program, or Java.<br><br>⚡ Fun fact: I love hiking mountains 🏔️ and playing guitar 🎸 in my spare time.</p>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
@@ -123,12 +125,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diraemonnn&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Most%20Used" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Diraemonnn&locale=en&mode=weekly&theme=gruvbox_light&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
