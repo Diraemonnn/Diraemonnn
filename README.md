@@ -15,11 +15,11 @@
   <a href="https://www.instagram.com/diraemonnn/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="35" alt="instagram logo"  />
   </a>
-  <a href="1440015033202376746" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="85" height="35" alt="discord logo"  />
   </a>
   <a href="gedediraagastya@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="85" height="35" alt="gmail logo"  />
   </a>
 </div>
 
@@ -27,29 +27,24 @@
 
 <br clear="both">
 
-<h1 align="center">HEY! DIRAEMONNN HERE</h1>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h5 align="center">🔭 I’m currently working on: Optimizing Network configurations (Cisco/MikroTik).<br><br>👯 I’m looking to collaborate on: Beginner to Intermediate Mobile Development projects.<br><br>🤝 I’m looking for help with: Exploring Machine Learning roadmaps & implementation.<br><br>🌱 I’m currently learning: Mobile App Architecture and Advanced Network Engineering.<br><br>💬 Ask me about: Network Troubleshooting, Google Student Ambassador program, or Java.<br><br>⚡ Fun fact: I love hiking mountains 🏔️ and playing guitar 🎸 in my spare time.
+</h5>
+
+###
+
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working on: Optimizing Network configurations (Cisco/MikroTik).<br><br>👯 I’m looking to collaborate on: Beginner to Intermediate Mobile Development projects.<br><br>🤝 I’m looking for help with: Exploring Machine Learning roadmaps & implementation.<br><br>🌱 I’m currently learning: Mobile App Architecture and Advanced Network Engineering.<br><br>💬 Ask me about: Network Troubleshooting, Google Student Ambassador program, or Java.<br><br>⚡ Fun fact: I love hiking mountains 🏔️ and playing guitar 🎸 in my spare time.</p>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
@@ -130,13 +125,33 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Diraemonnn&locale=en&mode=weekly&theme=gruvbox_light&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Diraemonnn&theme=dark&hide_border=false" height="170" alt="Diraemonnn's Streak" />
+  <img width="50"/>
+  <img src="https://github-readme-stats-me3i.vercel.app/api/top-langs/?username=Diraemonnn&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff7b00&text_color=ffffff&count_private=true&v=10" height="170" alt="Top Languages" />
 </div>
 
 ###
 
+<h3 align="center">❇️ Kata-Kata Hari Ini :</h3>
+
 ###
 
+<div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+  <br/>
+</div>
 
+###
+
+<h3 align="center">🎶 Recent Rotation :</h3>
+
+###
+
+<div align="center">
+  <br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fdfq3up6czxxcywg2r3b2txdvm"/>
+  <br/>
+</div>
 
 ###
