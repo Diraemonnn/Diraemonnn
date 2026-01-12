@@ -42,7 +42,6 @@
 <h2 align="center">🛠 Language and Tools</h2>
 <div align="center">
   
-  <br/>
   <h3>📱 Mobile & Core</h3>
   <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/> <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/> <img width="15" />
@@ -54,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> <img width="15" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40"/>
 
-  <br/><br/>
+  <br/>
   <h3>☁️ Cloud, Network & DevOps</h3>
   <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/> <img width="15" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40"/> <img width="15" />
@@ -66,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/> <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
 
-  <br/><br/>
+  <br/>
   <h3>💻 Web & Backend</h3>
   <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <img width="15" />
@@ -79,7 +78,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/> <img width="15" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
 
-  <br/><br/>
+  <br/>
   <h3>🗄️ Databases & Version Control</h3>
   <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/> <img width="15" />
@@ -89,7 +88,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40"/> <img width="15" />
 </div>
 
-<br/>
+<br/><br>
 
 <h2 align="center">🔥 My Stats</h2>
 <div align="center">
