@@ -24,7 +24,7 @@
 </div>
 
 <br/>
-<div align="center"
+<div align="center">
   <img src="https://github-readme-stats-me3i.vercel.app/api/top-langs/?username=Diraemonnn&layout=compact&hide_border=true&bg_color=41B883&title_color=0D1117&text_color=0D1117&icon_color=ff7b00&count_private=true&v=10" height="170" alt="Top Languages" />
 </div>
 
