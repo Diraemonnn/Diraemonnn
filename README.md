@@ -106,7 +106,7 @@
 
 <br/>
 
-<h2 align="center">❇️ Kata-Kata Hari Ini</h2>
+<h2 align="center">❇️ Reminder</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="600" />
 </div>
