@@ -1,9 +1,7 @@
 <br clear="both">
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRpOXJnd3lsOGVoOHh4emFjNXY1ZHN3bHV5azJoYzZmb3lndXNwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" height="200" style="border-radius: 15px;" />
-  <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=Diraemonnn&label=Profile%20Views&color=ff7b00&style=flat" alt="Profile Views" />
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Gotham+Code&weight=600&size=30&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=HEY!+DIRAEMONNN+HERE;Network+Engineer;Mobile+Dev+Enthusiast;Google+Student+Ambassador" alt="Typing SVG" />
@@ -29,8 +27,6 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <br/><br/>
   <p>
     🔭 <b>Current Work:</b> Optimizing Network configurations (Cisco/MikroTik)<br>
     🌱 <b>Learning:</b> Mobile App Architecture & Advanced Network Engineering<br>
@@ -69,7 +65,6 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40"/> <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/> <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-  <img src="https://i.mt.lv/img/mt/v2/logo.svg" height="40" /> <img width="15" /> 
 
   <br/><br/>
   <h3>💻 Web & Backend</h3>
