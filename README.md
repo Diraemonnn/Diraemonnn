@@ -25,82 +25,8 @@
 
 <br/>
 
-<h2 align="center">👩‍💻 About Me</h2>
-<div align="center">
-  <p>
-    🔭 <b>Current Work:</b> Optimizing Network configurations (Cisco/MikroTik)<br>
-    🌱 <b>Learning:</b> Mobile App Architecture & Advanced Network Engineering<br>
-    🤝 <b>Collaboration:</b> Beginner to Intermediate Mobile Development projects<br>
-    👯 <b>Looking for help:</b> Exploring Machine Learning roadmaps<br>
-    💬 <b>Ask me about:</b> Network Troubleshooting, GSA Program, or Java<br>
-    ⚡ <b>Fun fact:</b> I love hiking mountains 🏔️ and playing guitar 🎸
-  </p>
-</div>
-
-<br/>
-
-<h2 align="center">🛠 Language and Tools</h2>
-<div align="center">
-  
-  <h3>📱 Mobile & Core</h3>
-  <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40"/>
-
-  <br/>
-  <h3>☁️ Cloud, Network & DevOps</h3>
-  <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40"/> <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40"/> <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-
-  <br/>
-  <h3>💻 Web & Backend</h3>
-  <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/> <img width="15" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
-
-  <br/>
-  <h3>🗄️ Databases & Version Control</h3>
-  <br/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/> <img width="15" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/> <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="40"/> <img width="15" />
-</div>
-
-<br/><br>
-
-<h2 align="center">🔥 My Stats</h2>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Diraemonnn&theme=dark&hide_border=false" height="170" alt="Diraemonnn's Streak" />
   <img width="20"/>
   <img src="https://github-readme-stats-me3i.vercel.app/api/top-langs/?username=Diraemonnn&layout=compact&hide_border=true&bg_color=41B883&title_color=0D1117&text_color=0D1117&icon_color=ff7b00&count_private=true&v=10" height="170" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diraemonnn&bg_color=0d1117&color=ff7b00&line=ff7b00&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -110,10 +36,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="600" />
 </div>
 
-<br/>
-
-<h2 align="center">🎶 Recent Rotation</h2>
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fdfq3up6czxxcywg2r3b2txdvm&unique=true" />
-</div>
 <br/>
