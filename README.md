@@ -45,11 +45,13 @@ const AboutMe : any = {
   clouds: ["GCP", "Cloudflare"],
   techCommunities: {
     members: [
-      "GDG Bali", "HMJ TI Undiksha", "GSA Indonesia"
+      "GDG Bali",
+      "HMJ TI Undiksha",
+      "GSA Indonesia"
     ],
     favoriteFields: [
       "Network Engineering",
-      "Mobile Dev",
+      "Mobile Dev"
     ],
     hobby: [
       "Hiking",
