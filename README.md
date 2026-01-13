@@ -1,6 +1,8 @@
 <br clear="both">
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRpOXJnd3lsOGVoOHh4emFjNXY1ZHN3bHV5azJoYzZmb3lndXNwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" height="200" style="border-radius: 15px;" />
+  <img width="12"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHVmNmZ3cTgyMm1rdDRtd3Rjdzk5aXh4aHBuZXAyYTZlZjl4OXJqaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MPOp0rmUUEKfcvFckS/giphy.gif" height="200 style="border-radius: 15px:"/>
   
   <br/>
   <a href="https://git.io/typing-svg">
@@ -30,7 +32,7 @@
 
 <br/>
 
-<h2 align="center">❇️ Reminder</h2>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="600" />
 </div>
