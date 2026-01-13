@@ -26,6 +26,41 @@
 </div>
 
 <br/>
+
+```typescript
+const AboutMe : any = {
+  languages: [
+      "Dart",
+      "Kotlin",
+      "HTML",
+      "CSS",
+      "Go",
+      "Python",
+      "Java",
+      "PHP",
+      "C++"
+  ],
+  frameworks: ["Flutter", "Node.js", "Laravel", "Vue", "Jetpack Compose"],
+  databases: ["MySQL", "MongoDB", "SQLite", "MariaDB"],
+  clouds: ["GCP", "Cloudflare"],
+  techCommunities: {
+    members: [
+      "GDG Bali", "HMJ TI Undiksha", "GSA Indonesia"
+    ],
+    favoriteFields: [
+      "Network Engineering",
+      "Mobile Dev",
+    ],
+    hobby: [
+      "Hiking",
+      "Playing Guitars"
+    ]
+  },
+  quotes: "The world shall know pain."
+};
+```
+
+<br/>
 <div align="center">
   <img src="https://github-readme-stats-me3i.vercel.app/api/top-langs/?username=Diraemonnn&layout=compact&hide_border=true&bg_color=41B883&title_color=0D1117&text_color=0D1117&icon_color=ff7b00&count_private=true&v=10" height="170" alt="Top Languages" />
 </div>
